@@ -1,1 +1,8 @@
+streamlit
+psycopg2-binary
+python-dotenv
+openai>=1.0.0
+faiss-cpu
+numpy
+sentence-transformers
 
